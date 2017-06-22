@@ -2,3 +2,4 @@ master 1
 develop 2
 feature some 3
 realase-1.0 4
+hotfix 5
